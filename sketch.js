@@ -29,7 +29,7 @@ function preload(){
     obs3 = loadImage("car3.png");
     obs4 = loadImage("car4.png");
 
-    myCar = loadImage("My car.png");
+    myCar = loadImage("Mycar.png");
     
     gameOverImage = loadImage("gameOver.png");
 
